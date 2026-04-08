@@ -1,2 +1,0 @@
-# demo
-Jenkins demo project
